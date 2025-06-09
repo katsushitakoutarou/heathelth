@@ -1,6 +1,6 @@
 const CACHE_NAME = 'flowchart-cache-v1';
 const urlsToCache = [
-  './', // index.html or the main page
+  './', // 01_index.html or the main page
   './flowchart.html', // your main HTML file
   './manifest.json', // PWA manifest file
   './icon-192x192.png', // your icon files
