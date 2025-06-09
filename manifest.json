@@ -2,7 +2,7 @@
   "name": "熱中症フローチャート",
   "short_name": "熱中症",
   "description": "熱中症の症状に応じたフローチャートを提供します。",
-  "start_url": "./01_index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
