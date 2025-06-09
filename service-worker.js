@@ -1,7 +1,7 @@
 const CACHE_NAME = 'flowchart-cache-v1';
 const urlsToCache = [
   './', // ルートのURL（`index.html`でアクセスされた場合も対応）
-  './01_index.html', // ★ここを修正しました
+  './', // ★ここを修正しました
   './manifest.json',
   './service-worker.js', // ★サービスワーカー自身もキャッシュ対象に含めることが推奨されます
   './icon-192x192.png',
